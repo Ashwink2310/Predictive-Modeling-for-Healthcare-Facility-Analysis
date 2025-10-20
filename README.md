@@ -83,6 +83,3 @@ This model allows hospitals to:
 - Deploy model in a **dashboard for hospital administrators**  
 
 ---
-
-
-## 📁 Repository Structure
