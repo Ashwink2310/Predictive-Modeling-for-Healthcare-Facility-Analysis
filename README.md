@@ -279,9 +279,3 @@ LightGBM  CatBoost XGB  RF   GB
 - Real-time prediction API
 - Automated retraining pipeline with MLflow
 - Fairness audits across demographic groups
-
-For questions or collaboration opportunities, please open an issue on GitHub.
-
----
-
-**Disclaimer**: This project is for educational purposes. Model predictions should be validated by domain experts and compliance professionals before operational use.
